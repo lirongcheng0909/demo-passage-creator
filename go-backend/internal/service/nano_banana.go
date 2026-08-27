@@ -6,9 +6,9 @@ import (
 	"log"
 	"strings"
 
-	"github.com/yupi/ai-passage-creator/internal/common"
-	"github.com/yupi/ai-passage-creator/internal/config"
-	"github.com/yupi/ai-passage-creator/internal/model"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/common"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/config"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/model"
 	"google.golang.org/genai"
 )
 

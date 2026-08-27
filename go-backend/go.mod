@@ -1,4 +1,4 @@
-module github.com/yupi/ai-passage-creator
+module github.com/lirongcheng0909/demo-passage-creator
 
 go 1.25.5
 

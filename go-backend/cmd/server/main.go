@@ -8,11 +8,11 @@ import (
 	"github.com/gin-gonic/gin"
 	swaggerFiles "github.com/swaggo/files"
 	ginSwagger "github.com/swaggo/gin-swagger"
-	docs "github.com/yupi/ai-passage-creator/docs"
-	"github.com/yupi/ai-passage-creator/internal/app"
-	"github.com/yupi/ai-passage-creator/internal/common"
-	"github.com/yupi/ai-passage-creator/internal/config"
-	"github.com/yupi/ai-passage-creator/internal/middleware"
+	docs "github.com/lirongcheng0909/demo-passage-creator/docs"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/app"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/common"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/config"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/middleware"
 )
 
 // @title AI Passage Creator API

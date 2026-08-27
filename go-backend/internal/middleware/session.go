@@ -4,7 +4,7 @@ import (
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-contrib/sessions/redis"
 	"github.com/gin-gonic/gin"
-	"github.com/yupi/ai-passage-creator/internal/config"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/config"
 )
 
 // SetupSession 配置 Session 中间件

@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yupi/ai-passage-creator/internal/model"
-	"github.com/yupi/ai-passage-creator/internal/service"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/model"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/service"
 )
 
 // ContentMergerAgent 图文合成 Agent

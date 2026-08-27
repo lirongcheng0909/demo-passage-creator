@@ -1,6 +1,6 @@
 package service
 
-import "github.com/yupi/ai-passage-creator/internal/model"
+import "github.com/lirongcheng0909/demo-passage-creator/internal/model"
 
 // ImageService 图片服务接口
 type ImageService interface {

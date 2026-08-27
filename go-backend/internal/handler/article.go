@@ -7,9 +7,9 @@ import (
 
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"
-	"github.com/yupi/ai-passage-creator/internal/common"
-	"github.com/yupi/ai-passage-creator/internal/model"
-	"github.com/yupi/ai-passage-creator/internal/service"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/common"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/model"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/service"
 )
 
 // ArticleHandler 文章处理器

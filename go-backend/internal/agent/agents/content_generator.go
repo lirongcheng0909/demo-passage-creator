@@ -9,10 +9,10 @@ import (
 	"time"
 
 	"github.com/tmc/langchaingo/llms"
-	agentContext "github.com/yupi/ai-passage-creator/internal/agent/context"
-	"github.com/yupi/ai-passage-creator/internal/common"
-	"github.com/yupi/ai-passage-creator/internal/model"
-	"github.com/yupi/ai-passage-creator/internal/service"
+	agentContext "github.com/lirongcheng0909/demo-passage-creator/internal/agent/context"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/common"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/model"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/service"
 )
 
 // ContentGeneratorAgent 正文生成 Agent

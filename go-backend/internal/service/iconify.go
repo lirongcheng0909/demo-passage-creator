@@ -9,9 +9,9 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/yupi/ai-passage-creator/internal/common"
-	"github.com/yupi/ai-passage-creator/internal/config"
-	"github.com/yupi/ai-passage-creator/internal/model"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/common"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/config"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/model"
 )
 
 // IconifyService Iconify 图标库检索服务

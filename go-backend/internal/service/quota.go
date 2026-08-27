@@ -3,9 +3,9 @@ package service
 import (
 	"log"
 
-	"github.com/yupi/ai-passage-creator/internal/common"
-	"github.com/yupi/ai-passage-creator/internal/model"
-	"github.com/yupi/ai-passage-creator/internal/store"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/common"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/model"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/store"
 )
 
 // QuotaService 配额服务

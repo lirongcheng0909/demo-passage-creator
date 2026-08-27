@@ -1,7 +1,7 @@
 package store
 
 import (
-	"github.com/yupi/ai-passage-creator/internal/model"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/model"
 	"gorm.io/gorm"
 )
 

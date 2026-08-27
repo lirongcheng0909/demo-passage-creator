@@ -8,10 +8,10 @@ import (
 	"github.com/stripe/stripe-go/v81/checkout/session"
 	"github.com/stripe/stripe-go/v81/refund"
 	"github.com/stripe/stripe-go/v81/webhook"
-	"github.com/yupi/ai-passage-creator/internal/common"
-	"github.com/yupi/ai-passage-creator/internal/config"
-	"github.com/yupi/ai-passage-creator/internal/model"
-	"github.com/yupi/ai-passage-creator/internal/store"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/common"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/config"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/model"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/store"
 	"gorm.io/gorm"
 )
 

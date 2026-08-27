@@ -8,9 +8,9 @@ import (
 	"strings"
 
 	"github.com/tmc/langchaingo/llms"
-	agentContext "github.com/yupi/ai-passage-creator/internal/agent/context"
-	"github.com/yupi/ai-passage-creator/internal/common"
-	"github.com/yupi/ai-passage-creator/internal/model"
+	agentContext "github.com/lirongcheng0909/demo-passage-creator/internal/agent/context"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/common"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/model"
 )
 
 // OutlineGeneratorAgent 大纲生成 Agent

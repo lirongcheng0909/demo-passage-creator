@@ -3,7 +3,7 @@ package agent
 import (
 	"context"
 
-	"github.com/yupi/ai-passage-creator/internal/model"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/model"
 )
 
 // Agent 智能体接口

@@ -10,9 +10,9 @@ import (
 
 	"github.com/tmc/langchaingo/llms"
 	"github.com/tmc/langchaingo/llms/openai"
-	"github.com/yupi/ai-passage-creator/internal/common"
-	"github.com/yupi/ai-passage-creator/internal/config"
-	"github.com/yupi/ai-passage-creator/internal/model"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/common"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/config"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/model"
 )
 
 // ArticleAgentService 文章智能体编排服务

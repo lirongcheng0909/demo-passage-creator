@@ -7,7 +7,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/stripe/stripe-go/v81"
-	"github.com/yupi/ai-passage-creator/internal/service"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/service"
 )
 
 // WebhookHandler Webhook 控制器

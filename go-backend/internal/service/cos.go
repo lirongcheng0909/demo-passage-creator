@@ -10,8 +10,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/yupi/ai-passage-creator/internal/config"
-	"github.com/yupi/ai-passage-creator/internal/model"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/config"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/model"
 
 	"github.com/google/uuid"
 	"github.com/tencentyun/cos-go-sdk-v5"

@@ -5,8 +5,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/yupi/ai-passage-creator/internal/common"
-	"github.com/yupi/ai-passage-creator/internal/model"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/common"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/model"
 )
 
 // PicsumService Picsum 随机图片服务（降级方案）

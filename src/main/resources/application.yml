@@ -37,7 +37,7 @@ springdoc:
   group-configs:
     - group: 'default'
       paths-to-match: '/**'
-      packages-to-scan: com.yupi.template.controller
+      packages-to-scan: com.demo.template.controller
 # knife4j 接口文档配置
 knife4j:
   enable: true

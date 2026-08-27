@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/tmc/langchaingo/llms"
-	"github.com/yupi/ai-passage-creator/internal/common"
-	"github.com/yupi/ai-passage-creator/internal/model"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/common"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/model"
 )
 
 // agent2GenerateOutlineStream 智能体2：生成大纲（流式输出）

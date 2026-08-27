@@ -3,8 +3,8 @@ package service
 import (
 	"log"
 
-	"github.com/yupi/ai-passage-creator/internal/model"
-	"github.com/yupi/ai-passage-creator/internal/store"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/model"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/store"
 )
 
 // AgentLogService 智能体日志服务

@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/tmc/langchaingo/llms"
-	"github.com/yupi/ai-passage-creator/internal/common"
-	"github.com/yupi/ai-passage-creator/internal/model"
-	"github.com/yupi/ai-passage-creator/internal/service"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/common"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/model"
+	"github.com/lirongcheng0909/demo-passage-creator/internal/service"
 )
 
 // ImageAnalyzerAgent 配图需求分析 Agent
